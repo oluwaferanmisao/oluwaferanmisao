@@ -16,8 +16,8 @@ Here are some of the technologies and tools I work with:
 
 - **Languages**: [Dart, Python, JavaScript.]
 - **Frameworks**: [Flutter, Django, React.]
-- **Tools**: [List of tools you use, e.g., Git, Vscode, Figma, Anaconda, etc.]
-- **Databases**: [List of databases you work with, e.g., Firebase, MongoDB, etc.]
+- **Tools**: [List of tools I use, e.g., Git, Vscode, Figma, Anaconda, etc.]
+- **Databases**: [List of databases you work with, e.g., Firebase, etc.]
 
 ## Projects
 
@@ -29,8 +29,9 @@ Here are a few projects I've worked on:
 
 ## GitHub Stats
 
-![Oluwaferanmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwaferanmisao&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaferanmisao&layout=compact&theme=radical)
+![Oluwaferanmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwaferanmisao&show_icons=true&theme=github_dark_dimmed)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaferanmisao&layout=compact&theme=github_dark_dimmed)
 
 ## Let's Connect
 
