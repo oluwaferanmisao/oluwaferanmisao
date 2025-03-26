@@ -17,7 +17,7 @@ Here are some of the technologies and tools I work with:
 - **Languages**: [Dart, Python, JavaScript.]
 - **Frameworks**: [Flutter, Django, React.]
 - **Tools**: [List of tools I use, e.g., Git, Vscode, Figma, Anaconda, etc.]
-- **Databases**: [List of databases you work with, e.g., Firebase, etc.]
+- **Databases**: [List of databases I work with, e.g., Firebase, etc.]
 
 ## Projects
 
