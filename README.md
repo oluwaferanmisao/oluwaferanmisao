@@ -1,6 +1,6 @@
-# Hello, I'm Oluwaferanmi S. 👋
+# Hello, I am Oluwaferanmi Sao 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for ideating and crafting projects, coding, and continuous learning.
+Welcome to my GitHub profile! I am a passionate developer with a love for ideating and crafting projects, coding, and continuous learning.
 
 ## About Me
 
