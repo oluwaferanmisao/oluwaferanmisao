@@ -38,7 +38,7 @@ Here are a few projects I've worked on:
 
 - [LinkedIn](linkedin.com/in/oluwaferanmisao/)
 - [Twitter](x.com/OluwaferanmiSao)
-- [Personal Website/Blog](https://oluwaferanmisao.com.ng)
+- [Personal Website/Blog](https://jocale.com.ng)
 - [Personal Second Website](https://feranmi.vercel.app)
 
 Thanks for visiting my profile! Have a great day!
