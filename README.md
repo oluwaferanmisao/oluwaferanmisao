@@ -16,8 +16,9 @@ Here are some of the technologies and tools I work with:
 
 - **Languages**: [Dart, Python, JavaScript.]
 - **Frameworks**: [Flutter, Django, React.]
-- **Tools**: [List of tools I use, e.g., Git, Vscode, Figma, Anaconda, etc.]
+- **Tools**: [List of tools I use, e.g., Git, Vscode, Figma, Anaconda, WordPress, etc.]
 - **Databases**: [List of databases I work with, e.g., Firebase, etc.]
+- In addition, I am also proficient in using WordPress ![WordPress](https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## Projects
 
